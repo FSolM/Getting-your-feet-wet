@@ -1,13 +1,8 @@
-# Project: Getting Your Feet Wet
+# Getting Your Feet Wet
+### Ruby on Rails Introduction Project Deployec to Heroku
+#### Project 1
+<b>Live Page:</b> https://fsolm.github.io/design-teardown/
 
-This is the first project of the Main Ruby on Rails curriculum at [Microverse](https://www.microverse.org/)
-* The goal was to get started using Ruby on Rails.
-* The project was completed using Ruby on Rails.
-
-#### [Live version](https://wet-feet.herokuapp.com/users)
-#### [Assignment link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)  
-
-#### Authors
-
-* [@FSolM](https://github.com/https://github.com/FSolM)
-* [@codingAngarita](https://github.com/codingAngarita)
+#### Created by:
+Carlos Sol: <a href="https://github.com/FSolM">@FSolM</a><br>
+Juan Escobar: <a href="https://github.com/lilleonz">@codingAngarita</a>
