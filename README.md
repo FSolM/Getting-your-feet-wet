@@ -1,28 +1,30 @@
 # Getting Your Feet Wet
-### Ruby on Rails Introduction Project Deployec to Heroku
+### Basic Rails project
 #### Project 1
-<b>Live Page:</b> https://fsolm.github.io/design-teardown/
 
-## Getting Started
+## Usage & Installation
 
-To get started with the app, clone the repo and then install the needed gems:
+Install the necessary gems:
 
 ```
 $ bundle install --without production
 ```
 
-Next, migrate the database:
+*The gems included in the project are no necessary up to date, be sure to update them before running the project to project it from vulnerabilities.*
+
+Migrate the local database:
 
 ```
 $ rails db:migrate
 ```
 
-To run the Rails app on a local server:
+Run Rails app locally:
 
 ```
 $ rails server
 ```
 
 #### Created by:
-Carlos Sol: <a href="https://github.com/FSolM">@FSolM</a><br>
-Juan Escobar: <a href="https://github.com/codingAngarita">@codingAngarita</a>
+
+Carlos Sol: [@FSolM](https://github.com/FSolM)<br>
+Juan Escobar: [@codingAngarita](https://github.com/codingAngarita)
