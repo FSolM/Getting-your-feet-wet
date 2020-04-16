@@ -1,30 +1,55 @@
 # Getting Your Feet Wet
-### Basic Rails project
-#### Project 1
+
+##### Project 1
+
+#### Basic Rails project with all its components scaffolded
 
 ## Usage & Installation
 
-Install the necessary gems:
+## About
+
+This is a Rails introduction project; all of its models are scaffolded and it has 0 design. The gist of it was just the introduction to how Rails operates and how the MVC model works.
+
+## Details
+
+This is an old project, and the gems used may not be up to date, run the
 
 ```
-$ bundle install --without production
+$ bundle update
 ```
 
-*The gems included in the project are no necessary up to date, be sure to update them before running the project to project it from vulnerabilities.*
+command to fix any version errors or fix them manually.
 
-Migrate the local database:
+## Installation
+
+If you want to see this project in action, clone the repository and install the bundled gems with
+
+```
+$ bundle install
+```
+
+Then, migrate the database with
 
 ```
 $ rails db:migrate
 ```
 
-Run Rails app locally:
+And finally, to run the app locally, use
 
 ```
 $ rails server
 ```
 
-#### Created by:
+## Known Issues
 
-Carlos Sol: [@FSolM](https://github.com/FSolM)<br>
+There are currently no known issues with this project.
+
+## Planned Implementations
+
+None, the goal of this project was completed and it's not necessary to revisit it.
+
+## Contact
+
+Carlos Sol: [@FSolM](https://github.com/FSolM)
+
 Juan Escobar: [@codingAngarita](https://github.com/codingAngarita)
