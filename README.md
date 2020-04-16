@@ -4,8 +4,6 @@
 
 #### Basic Rails project with all its components scaffolded
 
-## Usage & Installation
-
 ## About
 
 This is a Rails introduction project; all of its models are scaffolded and it has 0 design. The gist of it was just the introduction to how Rails operates and how the MVC model works.
